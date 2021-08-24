@@ -9,7 +9,7 @@ To run the project, you will only need Node.js and npm installed.
 
 ## Install
 
-    $ git clone https://github.com/YOUR_USERNAME/PROJECT_TITLE
+    $ git clone https://github.com/wwchen21227/file-text-search
     $ cd file-text-search
     $ npm install
 
