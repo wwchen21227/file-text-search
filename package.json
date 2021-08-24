@@ -1,0 +1,16 @@
+{
+  "name": "file-word-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.6",
+    "mock-fs": "^5.0.0"
+  }
+}

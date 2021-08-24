@@ -1,0 +1,10 @@
+version: '3.6'
+
+services:
+  text-search-app:
+    build: .
+    command: npm run start
+    volumes:
+      - .:/usr/src/app
+      - /usr/src/app/node_modules
+      - ./output-result:/usr/src/app/output-result
